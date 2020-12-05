@@ -1,0 +1,12 @@
+{
+  "name": "node-koa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/koa": "^2.11.6"
+  },
+  "dependencies": {
+    "koa": "^2.13.0"
+  }
+}
